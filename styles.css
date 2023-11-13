@@ -4,6 +4,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    background: linear-gradient(to right, rgb(193, 193, 255), rgb(145, 145, 245) );
+
+}
 .title{
     display: grid;
     justify-content: center;
@@ -19,6 +23,15 @@
     border: 2px solid black;
     color: black;
 
+
+}
+
+.colorPlus{
+    background: rgb(193, 193, 255);
+}
+
+.colorMinus{
+    background:rgb(145, 145, 245);
 }
 
 .positionButton{
