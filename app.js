@@ -21,10 +21,14 @@ function increase(plus){
 function decrease(minus){
     while(minus){
         i--;
+
+        if(i < 0){
+            i = 0;
+        }
+        
         console.log(i);
         counter.innerHTML = "Il Counter si trova al numero:" + i;
         return i;
     }
 }
-
 
