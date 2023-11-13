@@ -49,8 +49,8 @@ body{
 
 @media only screen and (max-width: 900px) {
     .text{
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
         font-size: 23px;
         border-radius: 15px;
     }
