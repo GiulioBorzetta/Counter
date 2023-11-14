@@ -4,7 +4,7 @@
 ### La struttara del sito é:
 - Header, dove é presente il titolo
 - Il numero in cui si trova il counter
-- i due pulsanti (+ % -) per poter aumentare e diminuire il counter
+- i due pulsanti (+ e -) per poter aumentare e diminuire il counter
 
 ### Informazioni sul programma:
 - Il counter é stato fatto per non averci numeri negativi
