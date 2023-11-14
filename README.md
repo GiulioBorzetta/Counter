@@ -1,5 +1,5 @@
-# COUNTER BY GIULIO
-- [Link](https://counter-giulio.netlify.app)
+# COUNTER BY GIULIO💻
+- [Link del sito](https://counter-giulio.netlify.app)
 
 ### La struttara del sito é:
 - Header, dove é presente il titolo
